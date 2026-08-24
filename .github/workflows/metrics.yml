@@ -1,0 +1,67 @@
+name: Metrics
+
+on:
+  # Her gece 00:00 UTC (Türkiye saatiyle 03:00) çalışır
+  schedule:
+    - cron: "0 0 * * *"
+  # Actions sekmesinden elle tetiklemek için
+  workflow_dispatch:
+  # README'ye dokunulduğunda da bir kez yenilesin
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Genel özet + dil dağılımı
+      - name: Overview and languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: GokhanGuclu
+          filename: github-metrics.svg
+          template: classic
+          base: header, repositories
+          config_timezone: Europe/Istanbul
+          config_theme: dark
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
+
+      # 2) İzometrik katkı takvimi + streak bilgisi
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: GokhanGuclu
+          filename: github-metrics-calendar.svg
+          base: ""
+          config_timezone: Europe/Istanbul
+          config_theme: dark
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 3) Son aktivite + GitHub başarımları
+      - name: Activity and achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: GokhanGuclu
+          filename: github-metrics-activity.svg
+          base: ""
+          config_timezone: Europe/Istanbul
+          config_theme: dark
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_visibility: all
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
