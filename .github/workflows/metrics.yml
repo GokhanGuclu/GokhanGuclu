@@ -31,6 +31,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_threshold: 1%
+          plugin_lines: yes
+          plugin_lines_sections: base
 
       # 2) İzometrik katkı takvimi + streak bilgisi
       - name: Isometric calendar
@@ -43,21 +45,3 @@ jobs:
           config_timezone: Europe/Istanbul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # 3) Son aktivite + kod hacmi
-      #    Not: achievements eklentisi tam 'repo' yetkisi istiyor, bu yuzden yok.
-      #    activity de 'all' gorunurlukte 'repo' istiyor; 'public' ile calisiyor.
-      - name: Activity and code volume
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: GokhanGuclu
-          filename: github-metrics-activity.svg
-          base: ""
-          config_timezone: Europe/Istanbul
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_visibility: public
-          plugin_lines: yes
-          plugin_lines_sections: base

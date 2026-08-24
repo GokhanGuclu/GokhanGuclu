@@ -104,8 +104,6 @@ An advanced machine learning system for intelligent email categorization. Automa
 
 ![Contribution Calendar](./github-metrics-calendar.svg)
 
-![Recent Activity](./github-metrics-activity.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GokhanGuclu/GokhanGuclu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GokhanGuclu/GokhanGuclu/output/github-snake.svg" />
