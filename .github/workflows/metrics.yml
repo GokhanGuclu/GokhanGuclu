@@ -33,6 +33,9 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_lines: yes
           plugin_lines_sections: base
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
 
       # 2) İzometrik katkı takvimi + streak bilgisi
       - name: Isometric calendar

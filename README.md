@@ -1,83 +1,80 @@
-# Gökhan Güçlü 👋
-
 <div align="center">
 
-👨‍💻 **Computer Engineer | Full Stack Developer @ Ailways**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=200&section=header&text=G%C3%B6khan%20G%C3%BC%C3%A7l%C3%BC&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="Gökhan Güçlü" width="100%" />
 
-Building fast native Windows apps, scalable backends and practical machine learning tools
+<a href="https://github.com/GokhanGuclu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=0078D4&center=true&vCenter=true&width=640&lines=Native+Windows+apps+shipped+to+the+Microsoft+Store;Modular+monoliths+%26+microservices+that+scale;.NET+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+Next.js;Machine+learning+%26+LLM-powered+tools;Fast%2C+clean+and+well-tested+code" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 I am a Computer Engineer
-- 🏢 Currently working as a Full Stack Developer at **Ailways**
-- 💻 Shipping desktop apps to the Microsoft Store and building web and ML projects
-- 🎯 My goal is to specialize in Python, database technologies, and AI/ML
-- 🌱 I am constantly improving myself and learning new technologies
-- 🔍 I aim to gain in-depth knowledge in backend, database management, and ML algorithms
-- 🤖 I'm passionate about building intelligent systems with machine learning
-- ⚡ I develop projects with my fast learning and problem-solving skills
-- 👯 I am open to collaborating on open source projects
 
-## 💻 My Technology Stack
+- 🎓 **Computer Engineer** and **Full Stack Developer** based in İstanbul
+- 🛍️ I ship native Windows apps to the **Microsoft Store** — [OmniFiles](https://apps.microsoft.com/detail/9NWFH3FLSHPT) and [SoundPilot](https://apps.microsoft.com/detail/9N0LNT66JHZW)
+- 🏗️ I design backends as **modular monoliths and microservices** — clean module boundaries, message queues, transactional outbox, and auth done right (Argon2, JWT rotation)
+- 🤖 I bring **ML and AI into real products**, from classic models (XGBoost, Random Forest) to local translation pipelines and LLM APIs
+- ⚡ I care about **performance and quality**: virtualized UIs, Native AOT, and code backed by unit, integration and e2e tests
+- 👯 Always open to collaborating on interesting projects
+
+## 💻 Tech Stack
 
 ### Languages
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=cs,ts,js,py,java,cpp,c)
 
-### Desktop
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+### Frontend & Mobile
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,html,css)
+
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### Desktop & Game
+![Desktop](https://skillicons.dev/icons?i=dotnet,windows,electron,unity)
+
 ![WinUI 3](https://img.shields.io/badge/-WinUI_3-0063B1?style=flat-square&logo=windows&logoColor=white)
 ![Native AOT](https://img.shields.io/badge/-Native_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/-Windows_Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/-Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white)
 
 ### Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,flask)
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Data & Messaging
+![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,prisma,rabbitmq,elasticsearch)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO_/_S3-C72E49?style=flat-square&logo=minio&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### AI & Machine Learning
+![AI](https://skillicons.dev/icons?i=pytorch,sklearn)
+
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/-Tesseract_OCR-3C78D8?style=flat-square&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Matplotlib & Seaborn](https://img.shields.io/badge/-Matplotlib_%26_Seaborn-11557C?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/-OBS_Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+### DevOps, Testing & Tools
+![DevOps](https://skillicons.dev/icons?i=docker,githubactions,nginx,jest,vitest,git,visualstudio,vscode,postman)
+
+![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/-Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 ## 🏆 Featured Projects
 
@@ -109,6 +106,17 @@ An audio control center for Windows. Switch between your headset and speakers, t
 - Framework: .NET 10, C# 14, Windows Forms
 - System: Win32 API (global hotkeys), AudioSwitcher CoreAudio
 - Packaging: Velopack (auto-updates), Inno Setup, PowerShell
+
+### 🍽️ Project Saffron &nbsp;·&nbsp; `In active development`
+
+*Real reviews. Verified photos. Zero paid influence.* A restaurant review platform where every review is moderated before it goes public: an AI pre-screen and a human moderator check each one, food photos are verified with EXIF location and duplicate detection, and venue owners can never pay to change their ratings. Trusted reviewers earn **Gourmet** status, and every moderation decision lands in an append-only audit log.
+
+**Technologies:**
+- Backend: .NET 10, C# 14, ASP.NET Core, EF Core, FluentValidation
+- Architecture: Modular monolith + Onion layers, schema-per-module, transactional outbox / inbox
+- Data & Storage: PostgreSQL 17 + PostGIS, S3-compatible object storage (SeaweedFS)
+- Security: Argon2id, JWT, KVKK-aware data handling
+- Testing: xUnit, Testcontainers, NetArchTest architecture rules
 
 ### 🎮 [PS5 Altyazı Çevirici](https://github.com/GokhanGuclu/ps5-altyazi-cevirici)
 
@@ -151,6 +159,12 @@ Predicts Python runtime errors (ZeroDivisionError, IndexError, …) before the c
 
 ![GitHub Metrics](./github-metrics.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GokhanGuclu&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=GokhanGuclu&theme=default&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=GokhanGuclu&theme=default&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+</picture>
+
 ![Contribution Calendar](./github-metrics-calendar.svg)
 
 <picture>
@@ -169,12 +183,6 @@ Predicts Python runtime errors (ZeroDivisionError, IndexError, …) before the c
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokhanguclu@icloud.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GokhanGuclu)
 
-</div>
-
----
-
-<div align="center">
-
-Made with 💜 by [GokhanGuclu](https://github.com/GokhanGuclu)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=120&section=footer" alt="" width="100%" />
 
 </div>
