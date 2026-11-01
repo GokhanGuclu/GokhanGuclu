@@ -44,7 +44,7 @@
 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
@@ -64,12 +64,19 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/-Tesseract_OCR-3C78D8?style=flat-square&logo=google&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-### DevOps, Testing & Tools
-![DevOps](https://skillicons.dev/icons?i=docker,githubactions,nginx,jest,vitest,git,visualstudio,vscode,postman)
+### Cloud, DevOps & Automation
+![DevOps](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx)
+
+![Coolify](https://img.shields.io/badge/-Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Testing & Tools
+![Tools](https://skillicons.dev/icons?i=jest,vitest,git,visualstudio,vscode,postman)
 
 ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/-Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
